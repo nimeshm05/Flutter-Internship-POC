@@ -1,4 +1,4 @@
-# Onboarding Concept
+# Onboarding Interfaces
 <p float="left">
 	<img src="../assets/onboarding-concept-static.png" alt="Onboarding Concept Static" width="450">
 	<img src="../assets/onboarding-concept.gif" alt="Onboarding Concept" width="450">
