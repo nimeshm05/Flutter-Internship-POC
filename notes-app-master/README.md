@@ -8,6 +8,6 @@ I developed this application during the first few weeks of my internship to show
 - Flutter, SQLite
 
 ## Snapshot
-![snapshot](/001.png)
-![snapshot](/002.png)
-![snapshot](/003.png)
+![snapshot](https://github.com/nimeshm05/Flutter-Internship-POC/blob/master/notes-app-master/001.jpg)
+![snapshot](https://github.com/nimeshm05/Flutter-Internship-POC/blob/master/notes-app-master/002.jpg)
+![snapshot](https://github.com/nimeshm05/Flutter-Internship-POC/blob/master/notes-app-master/003.jpg)
