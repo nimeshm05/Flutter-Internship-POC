@@ -1,2 +1,5 @@
 # Note Taking App made in Flutter with Sqlite database 
- This is a note taking app made with flutter.<br>
+I developed this application during the first few weeks of my internship to show my learning progress with flutter to the mobile development team manager.
+
+## Screenshots
+
